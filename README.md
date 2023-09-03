@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ### Hi there 👋
+  ### 👋 Hi there 👋
   <a  href="https://wkdus885.tistory.com/"><img align="center" src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
 ---

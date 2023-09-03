@@ -11,7 +11,7 @@
 
 ![Youth787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youth787&show_icons=true&theme=merko) 
 
-<img align="right" src="http://mazandi.herokuapp.com/api?handle=ar77gt&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=ar77gt&theme=dark"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ar77gt)](https://solved.ac/ar77gt)
 

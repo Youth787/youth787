@@ -16,16 +16,9 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img align="right" src="http://mazandi.herokuapp.com/api?handle=ar77gt&theme=dark" style="margin: 0;"/>
   <a href="https://solved.ac/ar77gt">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ar77gt" style="margin: 0;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ar77gt" style="margin: 0;"/>
   </a>
 </div>
-
-
-
-
-
-
-
 
 
 <!--

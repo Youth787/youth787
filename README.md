@@ -1,21 +1,27 @@
 
+<!--
 <div align="center">
 
-  ### 👋 Hi there 👋
-  <a  href="https://wkdus885.tistory.com/"><img align="center" src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+  ### 👋 Hi there 👋 
+ <a  href="https://wkdus885.tistory.com/"><img align="center" src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
----
+
 </div>
 
 <div align="center">
 
-![Youth787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youth787&show_icons=true&theme=merko) 
+ ![Youth787's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youth787&show_icons=true&theme=merko)  
 
-<img align="right" src="http://mazandi.herokuapp.com/api?handle=ar77gt&theme=dark"/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ar77gt)](https://solved.ac/ar77gt)
-
+</div>-->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=ar77gt&theme=dark" style="margin: 0;"/>
+  <a href="https://solved.ac/ar77gt">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ar77gt" style="margin: 0;"/>
+  </a>
 </div>
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E684FF&height=80&section=header&text=%&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=47C83E&height=80&section=header&text=%&fontSize=50)
 <div align="center">
     <p><strong> 🌟 SKILLS 🌟 </strong></p>
   <div>
@@ -49,10 +49,10 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123)](https://solved.ac/wldnjs1123)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt)](https://solved.ac/ar77gt)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=E684FF&height=80&section=footer&text=%&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=47C83E&height=80&section=footer&text=%&fontSize=50)
 
 
 

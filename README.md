@@ -10,6 +10,7 @@
             <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=000000"/>
+              <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=000000"/>
         </td>
       </tr>
       <tr>
@@ -21,16 +22,6 @@
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=000000"/>
           <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=000000"/>
           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">  ✨ Infra ✨ </td>
-            <td align="center">
-              <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=000000"/>
-              <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=000000"/>
-              <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=000000"/>
-              <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=000000"/>
-            </td>
         </td>
       </tr>
          <tr>
@@ -53,6 +44,8 @@
     <p><strong> 🔰 ALGORITHM 🔰 </strong></p>
 
 
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt)](https://solved.ac/ar77gt)
 </div>
@@ -61,3 +54,13 @@
 
 
 
+<!--    <tr>
+        <td align="center">  ✨ Infra ✨ </td>
+            <td align="center">
+              <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=000000"/>
+              <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=000000"/>
+              <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=000000"/> 
+            
+            </td>
+        </td> 
+      </tr> -->

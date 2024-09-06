@@ -20,8 +20,6 @@
           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=000000"/>
-          <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=000000"/>
-          <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=000000"/>
           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/>
         </td>
       </tr>

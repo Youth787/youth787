@@ -10,6 +10,7 @@
             <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=000000"/>
+             <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=jpa&logoColor=000000"/>
               <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=000000"/>
         </td>
       </tr>

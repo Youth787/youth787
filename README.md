@@ -10,8 +10,8 @@
             <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=000000"/>
-             <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=jpa&logoColor=000000"/>
-              <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=000000"/>
+<!--              <img src="https://img.shields.io/badge/jpa-6DB33F?style=flat-square&logo=jpa&logoColor=000000"/>
+              <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=000000"/> -->
         </td>
       </tr>
       <tr>
@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=000000"/>
             <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=000000"/>
-          <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/>
+<!--           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/> -->
         </td>
       </tr>
          <tr>
@@ -32,7 +32,7 @@
               <img src="https://img.shields.io/badge/intelij-006600?style=flat-square&logo=intelij&logoColor=000000"/>
               <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=000000"/>
               <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=000000"/>
-              <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000"/>
+<!--               <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000"/> -->
               <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=000000"/>
             </td>
         </td>
